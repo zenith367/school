@@ -31,7 +31,7 @@ import { ref, uploadBytes, getDownloadURL } from "firebase/storage";
 import { useNavigate } from "react-router-dom";
 import { Button } from "../components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "../components/ui/card";
-import { ChartContainer, ChartTooltip, ChartTooltipContent } from "../components/ui/chart";
+
 
 const ELECTRIC = "#3ee0ff";
 const PURPLE = "#8b5cf6";
